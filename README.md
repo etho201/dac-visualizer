@@ -1,2 +1,2 @@
-# visualizer-dac
+# dac-visualizer
 DAC = Diagrams As Code
